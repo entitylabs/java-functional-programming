@@ -1,2 +1,2 @@
-# Java-functional-programming
+# Java-Functional-Programming
 Functions and related programs, Functional interface
